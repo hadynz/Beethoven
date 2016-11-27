@@ -74,9 +74,9 @@ app.on('ready', async () => {
 
   if (process.platform === 'darwin') {
     template = [{
-      label: 'Electron',
+      label: 'Beethoven',
       submenu: [{
-        label: 'About ElectronReact',
+        label: 'About Beethoven',
         selector: 'orderFrontStandardAboutPanel:'
       }, {
         type: 'separator'

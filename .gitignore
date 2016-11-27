@@ -30,6 +30,9 @@ app/node_modules
 # OSX
 .DS_Store
 
+# IDEA
+.idea
+
 # App packaged
 release
 app/main.js
